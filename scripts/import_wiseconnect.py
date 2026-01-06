@@ -26,6 +26,7 @@ paths = [
     "components/common/inc/sl_utility.h",
     "components/common/src/sl_utility.c",
     "components/device/silabs/si91x/mcu/core/chip/config/sl_board_configuration.h",
+    "components/device/silabs/si91x/mcu/core/chip/config/sl_si91x_external_oscillator.h",
     "components/device/silabs/si91x/mcu/core/chip/config/sl_sysrtc_board.h",
     "components/device/silabs/si91x/mcu/core/chip/inc/base_types.h",
     "components/device/silabs/si91x/mcu/core/chip/inc/data_types.h",
